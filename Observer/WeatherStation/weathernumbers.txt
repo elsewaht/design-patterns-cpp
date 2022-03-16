@@ -1,0 +1,4 @@
+temp=22
+humidity=40
+pressure=1100
+eof
